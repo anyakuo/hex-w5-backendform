@@ -1,0 +1,15 @@
+.navbar {
+  min-width: 296px;
+  min-height: 100vh;
+}
+.navbar li:hover a {
+  color: #198754 !important;
+}
+.navbar li:hover span {
+  color: #198754 !important;
+}
+.navbar li:hover {
+  border-left: 4px solid #198754;
+}
+
+
